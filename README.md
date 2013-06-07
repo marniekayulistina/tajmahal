@@ -1,4 +1,4 @@
 tajmahal
 ========
 
-tugas grafkom
+tugas grafkom kelompok
